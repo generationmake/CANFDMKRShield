@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "CANFDMKRShield"
-Date "2020-11-25"
+Date "2020-11-27"
 Rev "0.1"
 Comp "generationmake"
 Comment1 ""
@@ -965,21 +965,6 @@ F 3 "" H 9950 1650 50  0000 C CNN
 	1    9950 1650
 	1    0    0    -1  
 $EndComp
-$Comp
-L power-supply:+5V #PWR0103
-U 1 1 5FBF104E
-P 9950 1150
-F 0 "#PWR0103" H 9950 1000 50  0001 C CNN
-F 1 "+5V" H 9965 1323 50  0000 C CNN
-F 2 "" H 9950 1150 50  0000 C CNN
-F 3 "" H 9950 1150 50  0000 C CNN
-	1    9950 1150
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10050 1250 9950 1250
-Wire Wire Line
-	9950 1250 9950 1150
 Wire Wire Line
 	10050 1550 9950 1550
 Wire Wire Line
@@ -1018,25 +1003,48 @@ F 3 "" H 9950 2600 50  0000 C CNN
 	1    9950 2600
 	1    0    0    -1  
 $EndComp
-$Comp
-L power-supply:+5V #PWR0105
-U 1 1 5FBFC4EB
-P 9950 2100
-F 0 "#PWR0105" H 9950 1950 50  0001 C CNN
-F 1 "+5V" H 9965 2273 50  0000 C CNN
-F 2 "" H 9950 2100 50  0000 C CNN
-F 3 "" H 9950 2100 50  0000 C CNN
-	1    9950 2100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	10050 2200 9950 2200
-Wire Wire Line
-	9950 2200 9950 2100
 Wire Wire Line
 	10050 2500 9950 2500
 Wire Wire Line
 	9950 2500 9950 2600
 Text Notes 9300 2100 0    50   ~ 0
 CAN out
+$Comp
+L devices:D_Schottky_Small D2
+U 1 1 5FC0AD4A
+P 9450 3350
+F 0 "D2" H 9450 3555 50  0000 C CNN
+F 1 "DNI" H 9450 3464 50  0000 C CNN
+F 2 "diodes:SOD-123" V 9450 3350 50  0001 C CNN
+F 3 "" V 9450 3350 50  0000 C CNN
+	1    9450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power-supply:+5V #PWR027
+U 1 1 5FC0BA56
+P 9200 3300
+F 0 "#PWR027" H 9200 3150 50  0001 C CNN
+F 1 "+5V" H 9215 3473 50  0000 C CNN
+F 2 "" H 9200 3300 50  0000 C CNN
+F 3 "" H 9200 3300 50  0000 C CNN
+	1    9200 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10250 3350 9550 3350
+Wire Wire Line
+	9350 3350 9200 3350
+Wire Wire Line
+	9200 3350 9200 3300
+Text Label 9350 2200 0    50   ~ 0
+CANVCC
+Text Label 9350 1250 0    50   ~ 0
+CANVCC
+Text Label 9800 3350 0    50   ~ 0
+CANVCC
+Wire Wire Line
+	9200 2200 10050 2200
+Wire Wire Line
+	9200 1250 10050 1250
 $EndSCHEMATC

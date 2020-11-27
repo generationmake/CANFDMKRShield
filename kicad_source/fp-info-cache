@@ -1,239 +1,197 @@
-53581011151948
-mechanical-switches
-ALPS_EC11B
-
-
-0
-7
-6
-mechanical-switches
-ALPS_EC11E
-
-
-0
-7
-6
-mechanical-switches
-ALPS_SKRH
-
-
-0
-8
-6
-mechanical-switches
-BOURNS_PEC11S-929K-S0015
-
-
-0
-11
-5
-mechanical-switches
-CK_JS202011JCQN
-C&K JS202011JCQN sliding switch SMD DPDT 300 mA 6V
-C&K JS202011JCQN sliding switch SMD DPDT 300 mA 6V
-0
-6
-6
-mechanical-switches
-CK_PTS647
-
-
-0
-4
-4
-mechanical-switches
-PCB_PUSH
-PCB pushbutton, Tyco FSM6x6 series
-pushbutton
-0
-4
-4
-mechanical-switches
-WE_450404015514
-
-
-0
-7
-4
-mechanical-switches
-WE_416131160808
-WS-DISV Small Compact SMT Flat Actuator with Top Tape 1.27 mm 8 pos.
-WS-DISV Small Compact SMT Flat Actuator with Top Tape 1.27 mm 8 pos.
-0
-16
-16
-mechanical-switches
-WE_4312x6xxx7x6
-
-
-0
-4
-4
-mechanical-switches
-WE_434121050816
-WS-TASV SMT Tact Switch 6.0x3.5 mm
-WS-TASV SMT Tact Switch 6.0x3.5 mm
-0
-2
-2
-mechanical-switches
-WE_434351045816
-WS-TASU SMT Tact Switch 4.7x3.5 mm side push
-WS-TASU SMT Tact Switch 4.7x3.5 mm side push
-0
-4
-4
-mechanical-switches
-WE_430181038816
-
-
-0
-4
-4
-mechanical-switches
-WE_430182050816
-
-
-0
-4
-4
-mechanical-switches
-WE_430182080816
-
-
-0
-4
-4
-mechanical-switches
-WE_430186043716
-
-
-0
-4
-4
-mechanical-switches
-Wuerth_WS-SLTV
-Würth WS-SLTV Switch
-würth switch
+44016857631632
+diodes
+D-Pak_TO252AA
+D-Pak, TO252AA, Diode
+D-Pak TO252AA Diode
 0
 3
 3
-mechanical-switches
-dip_1-300
-Dip switch, DIL2 x 0,3"
-DIP
+diodes
+DD-PAK_TO263_DualDiode
+DD-PAK, TO263, Dual Diode,
+DD-PAK TO263 Dual Diode 
+0
+4
+3
+diodes
+DD-PAK_TO263_DualDiode_ThermalVias
+DD-PAK, TO263, Dual Diode, Thermal Vias,
+DD-PAK TO263 Dual Diode Thermal Vias 
+0
+47
+3
+diodes
+DD-PAK_TO263_SingleDiode
+DD-PAK, TO263, Single Diode,
+DD-PAK TO263 Single Diode 
+0
+4
+3
+diodes
+DD-PAK_TO263_SingleDiode_ThermalVias
+DD-PAK, TO263, Single Diode, Thermal Vias,
+DD-PAK TO263 Single Diode Thermal Vias 
+0
+47
+3
+diodes
+DO-214AB
+Jedec DO-214AB diode package. Designed according to Fairchild SS32 datasheet.
+DO-214AB diode
 0
 2
 2
-mechanical-switches
-dip_2-300
-Dip switch, DIL4 x 0,3"
-DIP
+diodes
+DO-214AB_Handsoldering
+Jedec DO-214AB diode package. Designed according to Fairchild SS32 datasheet.
+DO-214AB diode Handsoldering
 0
-4
-4
-mechanical-switches
-dip_3-300
-Dip switch, DIL6 x 0,3"
-DIP
+2
+2
+diodes
+DO-214BA
+Microsemi LSM115J
+DO-214BA diode
 0
-6
-6
-mechanical-switches
-dip_4-300
-Dip switch, DIL8 x 0,3"
-DIP
+2
+2
+diodes
+DO-216AA
+Jedec DO-216AA diode package. Designed according to ON Semi MBRM130LT1G datasheet
+DO-216AA 
 0
-8
-8
-mechanical-switches
-dip_5-300
-Dip switch, DIL10 x 0,3"
-DIP
+2
+2
+diodes
+MELF-RM10_Universal_Handsoldering
+Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
+Diode Universal MELF RM10 Handsoldering SMD Thruhole 
 0
-10
-10
-mechanical-switches
-dip_6-300
-Dip switch, DIL12 x 0,3"
-DIP
+2
+2
+diodes
+MELF_Handsoldering
+Diode MELF Handsoldering
+Diode MELF Handsoldering
 0
-12
-12
-mechanical-switches
-dip_7-300
-Dip switch, DIL14 x 0,3"
-DIP
+2
+2
+diodes
+MELF_Standard
+Diode, MELF, Standard,
+Diode MELF Standard 
 0
-14
-14
-mechanical-switches
-dip_8-300
-Dip switch, DIL16 x 0,3"
-DIP
+2
+2
+diodes
+MiniMELF_Handsoldering
+Diode Mini-MELF Handsoldering
+Diode Mini-MELF Handsoldering
 0
-16
-16
-mechanical-switches
-dip_9-300
-Dip switch, DIL18 x 0,3"
-DIP
+2
+2
+diodes
+MiniMELF_Standard
+Diode Mini-MELF Standard
+Diode Mini-MELF Standard
 0
-18
-18
-mechanical-switches
-dip_10-300
-Dip switch, DIL20 x 0,3"
-DIP
+2
+2
+diodes
+SMA-SMB_Universal_Handsoldering
+Diode, Universal, SMA, SMB, Handsoldering,
+Diode Universal SMA SMB Handsoldering 
 0
-20
-20
-mechanical-switches
-dip_12-300
-Dip switch, DIL24 x 0,3"
-DIP
+2
+2
+diodes
+SMA_Handsoldering
+Diode SMA Handsoldering
+Diode SMA Handsoldering
 0
-24
-24
-mechanical-switches
-smd_push
-SMD Pushbutton
+2
+2
+diodes
+SMA_Standard
+Diode SMA
+Diode SMA
+0
+2
+2
+diodes
+SMB-SMC_Universal_Handsoldering
+Diode, Universal, SMB, SMC, Handsoldering,
+Diode Universal SMB SMC Handsoldering 
+0
+2
+2
+diodes
+SMB_Handsoldering
+Diode SMB Handsoldering
+Diode SMB Handsoldering
+0
+2
+2
+diodes
+SMB_Standard
+Diode SMB Standard
+Diode SMB Standard
+0
+2
+2
+diodes
+SMC-RM10_Universal_Handsoldering
+Diode, Universal, SMC, RM10, Handsoldering, SMD, Thruhole,
+Diode Universal SMC RM10 Handsoldering SMD Thruhole 
+0
+2
+2
+diodes
+SMC_Handsoldering
+Diode SMC Handsoldering
+Diode SMC Handsoldering
+0
+2
+2
+diodes
+SMC_Standard
+Diode SMC Standard
+Diode SMC Standard
+0
+2
+2
+diodes
+SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+diodes
+SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+diodes
+SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+diodes
+SOD-923
+
 
 0
 2
 2
-mechanical-switches
-smd_push2
-SMD Pushbutton 2
-
+diodes
+TUMD2
+ROHM - TUMD2
+TUMD2
 0
-4
-4
-mechanical-switches
-smd_push3
-SMD Pushbutton 3
-FSM4JSMA 
-0
-4
-4
-mechanical-switches
-switch_100sp5
-E-Switch 100SP5
-
-0
-3
-3
-mechanical-switches
-switch_mfp116dg-ra
-Knitter MFP 116 DG-RA
-
-0
-5
-3
-mechanical-switches
-switch_mmp122-r
-Knitter MMP122-R
-
-0
-3
-3
+2
+2

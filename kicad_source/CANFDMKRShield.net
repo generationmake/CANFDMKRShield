@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/bernhard/projects/CANFDMKRShield/kicad_source/CANFDMKRShield.sch)
-    (date "Fr 27 Nov 2020 02:15:16 CET")
+    (date "Sa 28 Nov 2020 13:27:47 CET")
     (tool "Eeschema 5.1.8-db9833491~87~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -35,7 +35,7 @@
       (tstamp 5FB120ED))
     (comp (ref Y1)
       (value 20MHz)
-      (footprint crystals:Crystal_SMD_0603_4Pads)
+      (footprint crystals:Crystal_SMD_3.2x2.5mm_4Pad)
       (libsource (lib devices) (part Crystal_SMD_4Pad) (description "Quarz, Crystal SMD 4 Pads"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5FB128E3))

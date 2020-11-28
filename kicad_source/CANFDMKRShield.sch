@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "CANFDMKRShield"
-Date "2020-11-27"
+Date "2020-11-28"
 Rev "0.1"
 Comp "generationmake"
 Comment1 ""
@@ -926,12 +926,12 @@ Wire Wire Line
 $Comp
 L devices:Label L2
 U 1 1 5FBD8ED2
-P 5000 7600
-F 0 "L2" H 5228 7706 60  0000 L CNN
-F 1 "Label" H 5228 7600 60  0000 L CNN
-F 2 "labels:generationmake_small_solder" H 5228 7494 60  0000 L CNN
-F 3 "" H 5000 7600 60  0000 C CNN
-	1    5000 7600
+P 9300 5950
+F 0 "L2" H 9528 6056 60  0000 L CNN
+F 1 "Label" H 9528 5950 60  0000 L CNN
+F 2 "labels:generationmake_small_solder" H 9528 5844 60  0000 L CNN
+F 3 "" H 9300 5950 60  0000 C CNN
+	1    9300 5950
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1085,4 +1085,16 @@ Text Label 2250 7050 0    50   ~ 0
 MCP2517_CS2
 Text Notes 3400 1800 0    50   ~ 0
 20 MHz
+$Comp
+L devices:Label L3
+U 1 1 5FC37959
+P 9300 6300
+F 0 "L3" H 9528 6406 60  0000 L CNN
+F 1 "Label" H 9528 6300 60  0000 L CNN
+F 2 "labels:generationmake_logo" H 9528 6194 60  0000 L CNN
+F 3 "" H 9300 6300 60  0000 C CNN
+	1    9300 6300
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4200 5850
 $EndSCHEMATC

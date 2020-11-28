@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/bernhard/projects/CANFDMKRShield/kicad_source/CANFDMKRShield.sch)
-    (date "Sa 28 Nov 2020 13:27:47 CET")
+    (date "Sa 28 Nov 2020 20:11:40 CET")
     (tool "Eeschema 5.1.8-db9833491~87~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -34,7 +34,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5FB120ED))
     (comp (ref Y1)
-      (value 20MHz)
+      (value RH100-20.000-20-3030-TR)
       (footprint crystals:Crystal_SMD_3.2x2.5mm_4Pad)
       (libsource (lib devices) (part Crystal_SMD_4Pad) (description "Quarz, Crystal SMD 4 Pads"))
       (sheetpath (names /) (tstamps /))
@@ -212,7 +212,13 @@
       (footprint resistors:R_0603)
       (libsource (lib devices) (part R_0603) (description Resistor))
       (sheetpath (names /) (tstamps /))
-      (tstamp 5FC1B795)))
+      (tstamp 5FC1B795))
+    (comp (ref L3)
+      (value Label)
+      (footprint labels:generationmake_logo)
+      (libsource (lib devices) (part Label) (description Label))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5FC37959)))
   (libparts
     (libpart (lib CAN-transceiver) (part SN65HVD232)
       (description "3.3-V CANBus Transceivers")
